@@ -17,9 +17,10 @@ Typer + Rich CLI.
 
 **[VenturePulse](https://github.com/paulcrn/VenturePulse)** — XGBoost +
 SHAP startup-survival prediction served via FastAPI on GCP Cloud Run.
-Team project; my main contributions were the SHAP-to-plain-English
-explanation layer (`shap_translator.py`) and the HuggingFace-based
-data enrichment pipeline. [Live demo](https://startupventurepulse.lovable.app/).
+Team project I led (three-person Le Wagon final). My main areas of work
+were data cleaning + enrichment, model exploration and tuning, and the
+SHAP-to-plain-English explanation layer (`shap_translator.py`).
+[Live demo](https://startupventurepulse.lovable.app/).
 
 ## Tech
 
