@@ -20,7 +20,7 @@ SHAP startup-survival prediction served via FastAPI on GCP Cloud Run.
 Team project I led (three-person Le Wagon final). My main areas of work
 were data cleaning + enrichment, model exploration and tuning, and the
 SHAP-to-plain-English explanation layer (`shap_translator.py`).
-[Live demo](https://startupventurepulse.lovable.app/).
+[📺 Demo Day pitch (YouTube)](https://www.youtube.com/watch?v=tA_3t_9j1Wc).
 
 ## Tech
 
